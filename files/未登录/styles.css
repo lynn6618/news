@@ -2272,3 +2272,28 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u638_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:49px;
+}
+#u638 {
+  border-width:0px;
+  position:absolute;
+  left:1552px;
+  top:29px;
+  width:160px;
+  height:49px;
+}
+#u638_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
